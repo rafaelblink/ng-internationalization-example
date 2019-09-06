@@ -1,0 +1,13 @@
+{
+  "FIRSTPAGE": {
+    "HOME": "Home",
+    "ENGLISH": "English",
+    "PORTUGUESE": "Portuguese",
+    "FORM": {
+      "FIRST": "First Name",
+      "LAST": "Last Name",
+      "AGREE": "I agree to the Terms and Conditions",
+      "BUTTON": "Submit"
+    }
+  }
+}
